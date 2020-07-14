@@ -1,0 +1,2 @@
+class VisibleObject < ApplicationRecord
+end

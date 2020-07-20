@@ -2,7 +2,7 @@
 class VisibleObjectsController < ApplicationController
 
     def index
-        VisibleObjects.scrape
+        VisibleObject.scrape
         objects = VisibleObject.all
 
         render json: objects

@@ -1,0 +1,2 @@
+class SmallTelescopeObject < ApplicationRecord
+end

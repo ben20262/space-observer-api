@@ -1,0 +1,2 @@
+class BinocularObject < ApplicationRecord
+end

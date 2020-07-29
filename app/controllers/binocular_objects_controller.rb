@@ -1,0 +1,2 @@
+class BinocularObjectsController < ApplicationController
+end

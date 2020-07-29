@@ -1,0 +1,2 @@
+class SmallTelescopeObjectsController < ApplicationController
+end

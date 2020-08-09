@@ -3,5 +3,5 @@ Rails.application.routes.draw do
   root to: 'visible_objects#index'
 
   resources :binocular_objects, only: [:index]
-  
+  resources :small_telescope_objects, only: [:index]
 end

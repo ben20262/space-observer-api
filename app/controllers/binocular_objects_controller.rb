@@ -7,4 +7,8 @@ class BinocularObjectsController < ApplicationController
         render json: objects
     end
 
+    def show
+        
+    end
+
 end

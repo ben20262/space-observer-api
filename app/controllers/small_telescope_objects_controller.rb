@@ -7,4 +7,8 @@ class SmallTelescopeObjectsController < ApplicationController
         render json: objects
     end
 
+    def show
+        
+    end
+
 end
